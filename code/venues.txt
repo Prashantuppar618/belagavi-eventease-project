@@ -1,0 +1,15 @@
+1 Garden_Hall 25000
+2 Swimming_Pool_Pavilion 15000
+3 Elegant_Ballroom 40000
+4 Terrace_Lounge 20000
+5 Majestic_Courtyard 30000
+6 Crystal_Chandelier_Room 35000
+7 Riverside_Retreat 28000
+8 Golden_Palace_Hall 45000
+9 Sunset_Terrace 18000
+10 Enchanted_Forest_Hall 32000
+11 Skyline_View_Lounge 38000
+12 Harbor_Lights_Pavilion 27000
+13 Vintage_Wine_Cellar 50000
+14 Royal_Garden_Atrium 42000
+15 Sapphire_Ballroom 37000

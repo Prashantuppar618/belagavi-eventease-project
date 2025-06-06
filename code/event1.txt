@@ -1,0 +1,6 @@
+1 Wedding
+2 Birthday
+3 Naming_ceremony
+4 Students_party
+5 Meetings
+6 Kitty_party
