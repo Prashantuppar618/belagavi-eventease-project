@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🎯 EventEase — Smart Event Management & Routing System (C DSA Project)
 
 **EventEase** is a command-line Event Management System built using **C programming and Data Structures & Algorithms**. Designed to simplify the event venue selection process for users in **Belagavi**, the system allows for efficient hall discovery, booking, and optimal travel routing between event locations using **Dijkstra’s algorithm**.
@@ -93,6 +91,5 @@ Distributed under the [MIT License](https://opensource.org/licenses/MIT). Feel f
 
 > “Solving real-world logistics with code and clarity.”
 
-```
 
 
